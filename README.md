@@ -7,7 +7,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Screenshot](#screenshot)
 - [Links](#links)
 - [Built with](#built-with)
-- [Useful resources](#useful-resources)
 - [Author](#author)
 ### Screenshot
 
@@ -25,13 +24,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS
 - Grid
 
-### Useful resources
-
-[W3Schools HowTo](https://www.w3schools.com/howto/default.asp) -
-
 
 ## Author
 - Frontend Mentor - [@eniolaade02](https://www.frontendmentor.io/profile/eniolaade02)
 - Linkedin - [Eniola Adewale](https://www.linkedin.com/in/eniola-adewale-bb5851244/)
-- Twitter - [@theeniolaade] (https://twitter.com/theeniolaade)
+- Twitter - [@theeniolaade] (https://twitter.com/tobisworkspace)
 
